@@ -82,5 +82,12 @@
       "response": "TSEL\t\nOPEN 09.00 - 22.00\t\nPROSES 1-60 MENIT MAX 24 JAM\t\nVIA NO TSEL\t\nPULSA\tHARGA\n50.000\t Rp 46.800 \n60.000\t Rp 56.160 \n70.000\t Rp 65.520 \n80.000\t Rp 74.880 \n90.000\t Rp 84.240 \n100.000\t Rp 93.600 \n110.000\t Rp 102.960 \n120.000\t Rp 112.320 \n130.000\t Rp 121.680 \n140.000\t Rp 131.040 \n150.000\t Rp 140.400 \n160.000\t Rp 149.760 \n170.000\t Rp 159.120 \n180.000\t Rp 168.480 \n190.000\t Rp 177.840 \n200.000\t Rp 187.200",
       "isImage": false,
       "image_url": "-"
+   },
+   {
+      "id": "6281286425559-1620608875@g.us",
+      "key": "RIOT",
+      "response": "VALORANT\t\nOPEN 09.00 - 21.00\t\nPROSES 10-60 MENIT MAX 24 JAM\t\nVIA RIOT ID + TAG\n125\t Rp 16.500 \n420\t Rp 51.000 \n700\t Rp 82.600 \n1375\t Rp 150.000 \n2400\t Rp 250.000 \n4000\t Rp 396.000 \n8150\t Rp 787.000 \n\nLEAGUE OF LEGENDS\t\n125\t Rp 16.500 \n420\t Rp 51.000 \n700\t Rp 82.600 \n1375\t Rp 150.000 \n2400\t Rp 250.000 \n4000\t Rp 396.000 \n8150\t Rp 787.000 \n\nFormat:\nRIOT ID + TAG :\nUSER NAME :\nORDER VP / WP:\nSISA VP/WP:",
+      "isImage": false,
+      "image_url": "-"
    }
 ]
