@@ -1,2 +1,2 @@
-npm i @adiwajshing/baileys@3.5.3
+npm audit fix --force
 worker : npm i ffmpeg && npm start
